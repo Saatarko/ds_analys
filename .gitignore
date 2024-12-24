@@ -1,0 +1,4 @@
+.idea/
+*.log
+.ipynb_checkpoints/
+content/
